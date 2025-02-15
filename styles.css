@@ -1,3 +1,10 @@
 h1 {
-    font-family: verdana;
+    font-family: HelveticaNeue-UltraLight;
+    font-weight: lighter;
+    font-size: 50px;
+    color: rgb(253, 253, 253);
+}
+
+body {
+    background-color: rgb(30,30,30);
 }
