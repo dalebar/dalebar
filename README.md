@@ -1,2 +1,1 @@
-# Dale
-Web page for Dale
+This is my webpage on github
